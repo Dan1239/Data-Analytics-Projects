@@ -1,6 +1,6 @@
 /*
 
-Cleaning Data in SQL Queries
+Data Cleaning queries by Daniel for Zeldainc Nashville dataset 2023
 
 */
 
