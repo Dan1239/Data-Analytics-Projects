@@ -1,4 +1,4 @@
-# 📊 Global Sales Analytics Dashboard
+# 📊  Sales Analytics Project
 
 A comprehensive sales analytics project focused on analyzing business performance across six international markets using SQL and Power BI.
 
@@ -74,24 +74,10 @@ The project consolidates multiple regional datasets into a single analytical mod
 
 ---
 
-## 📁 Repository Structure
-
-```text
-global-sales-analytics-dashboard/
-│
-├── README.md
-├── Sales_Analytics_Report.pdf
-├── sales_queries.sql
-├── dashboard.pbix
-├── dataset/
-│   └── sales_data.csv
-├── images/
-│   └── dashboard.png
-```
 
 ## 📷 Dashboard Preview
 
-Add a screenshot of your Power BI dashboard inside the `images` folder and uncomment the line below:
+
 
 ```markdown
 ![Sales Dashboard](images/dashboard.png)
@@ -110,4 +96,4 @@ This project provides a scalable and repeatable analytical framework for monitor
 **Daniel Eweai Akhade**
 Business Data Analyst | CRM & Operations Specialist
 
-📍 Lagos, Nigeria
+
