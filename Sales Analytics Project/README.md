@@ -79,9 +79,6 @@ The project consolidates multiple regional datasets into a single analytical mod
 
 
 
-```markdown
-![Sales Dashboard](images/dashboard.png)
-```
 
 ---
 
