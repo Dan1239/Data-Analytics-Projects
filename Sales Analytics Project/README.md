@@ -1,0 +1,113 @@
+# 📊 Global Sales Analytics Dashboard
+
+A comprehensive sales analytics project focused on analyzing business performance across six international markets using SQL and Power BI.
+
+---
+
+## 📌 Project Overview
+
+This project analyzes sales transactions from **Canada, China, India, Nigeria, the United Kingdom, and the United States** to uncover key business insights related to revenue, profitability, product performance, and sales effectiveness.
+
+The project consolidates multiple regional datasets into a single analytical model, enabling stakeholders to make informed, data-driven decisions through an interactive dashboard.
+
+---
+
+## 🎯 Business Objectives
+
+* Compare revenue and profit across countries and store locations.
+* Identify top-performing products and sales representatives.
+* Evaluate the impact of discounts on profitability.
+* Provide a centralized reporting dashboard for decision-making.
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool                | Purpose                                      |
+| ------------------- | -------------------------------------------- |
+| **Microsoft Excel** | Initial data inspection and cleaning         |
+| **PostgreSQL**      | Data transformation, cleansing, and analysis |
+| **SQL**             | Data querying, aggregation, and validation   |
+| **Power BI**        | Dashboard development and visualization      |
+| **DAX**             | KPI calculations and interactive reporting   |
+
+---
+
+## 🔄 Project Workflow
+
+1. Imported and inspected six regional sales datasets.
+2. Merged datasets into a unified master table using `UNION ALL`.
+3. Cleaned missing values and removed duplicate records.
+4. Created calculated metrics for revenue and profit analysis.
+5. Performed exploratory and business-focused analysis.
+6. Developed an interactive Power BI dashboard.
+
+---
+
+## 📈 Dashboard KPIs
+
+* Total Sales
+* Total Profit
+* Total Orders
+* Average Order Value (AOV)
+* Total Discounts Given
+
+---
+
+## 🔍 Key Insights
+
+* Revenue was concentrated in a small number of markets and store locations.
+* Top-selling products did not always generate the highest profits.
+* Significant performance differences existed among sales representatives.
+* Discounting practices directly impacted overall profitability.
+* Average Order Value (AOV) varied across regions, revealing differences in upselling effectiveness.
+
+---
+
+## 📊 Analysis Performed
+
+* Revenue and Profit Analysis by Country
+* Top 5 Best-Selling Products
+* Sales Representative Performance Analysis
+* Store Location Performance Analysis
+* KPI and Profitability Assessment
+
+---
+
+## 📁 Repository Structure
+
+```text
+global-sales-analytics-dashboard/
+│
+├── README.md
+├── Sales_Analytics_Report.pdf
+├── sales_queries.sql
+├── dashboard.pbix
+├── dataset/
+│   └── sales_data.csv
+├── images/
+│   └── dashboard.png
+```
+
+## 📷 Dashboard Preview
+
+Add a screenshot of your Power BI dashboard inside the `images` folder and uncomment the line below:
+
+```markdown
+![Sales Dashboard](images/dashboard.png)
+```
+
+---
+
+## 🚀 Business Value
+
+This project provides a scalable and repeatable analytical framework for monitoring sales performance, optimizing resource allocation, improving profitability, and supporting strategic decision-making.
+
+---
+
+## 👤 Author
+
+**Daniel Eweai Akhade**
+Business Data Analyst | CRM & Operations Specialist
+
+📍 Lagos, Nigeria
