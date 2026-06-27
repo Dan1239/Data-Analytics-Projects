@@ -76,7 +76,7 @@ The project consolidates multiple regional datasets into a single analytical mod
 
 
 ## 📷 Dashboard Preview
-
+![image alt](https://github.com/Dan1239/Data-Analytics-Projects/blob/f5636c5aa10ee40804562483f3e13043503bf666/Sales%20Analytics%20Project/FINAL%20-%20PowerBI%20Sales%20Dashboard.pdf)
 
 
 
