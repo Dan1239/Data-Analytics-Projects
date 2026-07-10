@@ -60,8 +60,7 @@ This dashboard provides a consolidated view of fraudulent credit card activity a
 - Supporting data-driven fraud prevention strategies
 
 ## 📷 Preview
-
-*(Add a screenshot of the dashboard here)*
+![image alt](https://github.com/Dan1239/Data-Analytics-Projects/blob/48bbf06b9dd1708b00314e07ebb8db34c565b7a8/Sales%20Analytics%20Project/FINAL%20-%20PowerBI%20Sales%20Dashboard_page-0001.jpg)
 
 ## 📄 License
 
