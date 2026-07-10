@@ -22,7 +22,7 @@ This dashboard provides a consolidated view of fraudulent credit card activity a
 - **Geographic Analysis** — Fraudulent transaction counts by state, highlighting hotspots (e.g., Kerala, Karnataka, Maharashtra)
 - **Monthly Trend Analysis** — Time-series view of fraudulent transactions to identify seasonal spikes
 
-## 🔍 Key Insights (Sample)
+## 🔍 Key Insights
 
 - Overall fraud rate stands at **25.84%**
 - **54** transactions flagged as fraudulent, with **11.96%** classified as critical risk
@@ -36,21 +36,7 @@ This dashboard provides a consolidated view of fraudulent credit card activity a
 - **DAX** — Calculated measures for KPIs and risk categorization
 - **Power Query** — Data cleaning and transformation
 
-## 📁 Repository Structure
 
-```
-├── data/                  # Raw and cleaned transaction datasets
-├── dashboard.pbix         # Power BI dashboard file
-├── screenshots/           # Dashboard preview images
-└── README.md
-```
-
-## 🚀 Getting Started
-
-1. Clone this repository
-2. Open `dashboard.pbix` in Power BI Desktop
-3. Refresh the data source if connected to a live dataset
-4. Use the Filter Panel to explore fraud patterns by type, state, or merchant
 
 ## 📌 Use Cases
 
@@ -60,9 +46,9 @@ This dashboard provides a consolidated view of fraudulent credit card activity a
 - Supporting data-driven fraud prevention strategies
 
 ## 📷 Preview
-![image alt](https://github.com/Dan1239/Data-Analytics-Projects/blob/48bbf06b9dd1708b00314e07ebb8db34c565b7a8/Sales%20Analytics%20Project/FINAL%20-%20PowerBI%20Sales%20Dashboard_page-0001.jpg)
+![image alt](https://github.com/Dan1239/Data-Analytics-Projects/blob/fa2448e0b0477f3509883255a28401c144fc68d0/Credit%20Card%20Fraud%20Analysis/Screenshot%202026-07-10%20213703.png)
 
-## 📄 License
+
 
 This project is open source and available under the [MIT License](LICENSE).
 
