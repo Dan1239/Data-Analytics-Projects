@@ -23,8 +23,7 @@ Hospitals handle vast amounts of patient data, making it challenging to:
 ✅ Optimize **financial strategies** through cost analysis.  
 ✅ Evaluate **insurance coverage** for medical procedures.  
 
-## **Data Source**  
-The dataset was sourced from **Maven Analytics**, a platform for real-world analytics projects.  
+ 
 
 ## **Visualization & Dashboard Development**
 
