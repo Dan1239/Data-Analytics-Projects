@@ -2,7 +2,7 @@
 # **Hospital Patient Records Analysis Using Power BI**  
 
 ## **Project Overview**  
-This project analyzes synthetic patient data from Massachusetts General Hospital (2011-2022) to uncover trends in:  
+This project analyzes synthetic patient data from Massachusetts General Hospital to uncover trends in:  
 - Patient admissions and readmissions  
 - Hospital stays and associated costs  
 - Insurance coverage for medical procedures  
